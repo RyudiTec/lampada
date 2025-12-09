@@ -16,3 +16,6 @@ Desligar ao tirar o mouse da imagem
 Quebrar a lâmpada com duplo clique, impedindo que ela ligue novamente
 
 Esse projeto me ajudou a entender melhor como usar eventos, funções, condições e como alterar imagens e textos dinamicamente usando JavaScript, além de reforçar a integração entre HTML, CSS e JS.
+
+
+visite minha lampada funcional https://ryuditec.github.io/lampada/
